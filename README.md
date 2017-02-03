@@ -1,5 +1,5 @@
 
-# [BangTeaM](https://telegram.me/bang_team)
+# [Hektor Team](https://telegram.me/hektor_tm)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -41,7 +41,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    157059515,
+    14031394,
     0,
     YourID
   }
@@ -51,8 +51,8 @@ add your ID at line 2 in Tools.lua
 Then restart the bot.
 
 — اضافه کردن ID ربات خود را در خط 4 و اضافه کردن ID خود را در خط 87 در bot.lua اضافه کردن ID خود را در خط 2 در Tools.lua سپس ربات راه اندازی مجدد شود.
-
-# [BibaK](https://telegram.me/Bibak_BG)
+- *نکته اگه نزارید بات لفت نمیده*
+# [DR.AMIR](https://telegram.me/BOTS_sudo)
 
 ### هر گونه مشکلی داشت به ساپورت مراجعه کنید
-# [Support BanG TG](https://t.me/joinchat/AAAAAEJEWbuiI2275BRIDg)
+# [Support Hektor TG](https://t.me/joinchat/AAAAAEISsqWWrKnhLmA1FA)
