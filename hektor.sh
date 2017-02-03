@@ -37,7 +37,7 @@ fi
    ./tg/tgcli -s ./bot/bot.lua $@
 fi
 
-# Now All Argument Support after ./beyond.sh !
+# Now All Argument Support after ./hektor.sh !
 #	Arguments :
 #			#			#			#			#			#			#			#			#			#
 #  --phone/-u                           specify username (would not be asked during authorization)
