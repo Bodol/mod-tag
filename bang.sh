@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Bang-TG
+cd $HOME/hektor-tg
 
 install() {
 	    cd tg
@@ -31,7 +31,7 @@ if [ ! -f ./tg/tgcli ]; then
     exit 1
 fi
    echo -e "\033[38;5;208m"
-   echo -e "     > BanG TeaM :D                  "
+   echo -e "     > Hektor Team :D                  "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
    ./tg/tgcli -s ./bot/bot.lua $@
@@ -71,4 +71,4 @@ fi
 
 #			  OR
 
-# ./bang-tg --profile second-profile
+# ./hektor-tg --profile second-profile
