@@ -30,7 +30,7 @@ chmod +x hektor.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/hektor-tm/hektor-tg.git && cd hektor-tg && chmod +x hektor.sh && ./hektor.sh install && ./bang.sh
+cd $HOME && git clone https://github.com/hektor-tm/hektor-tg.git && cd hektor-tg && chmod +x hektor.sh && ./hektor.sh install && ./hektor.sh
 ```
 
 * * *
