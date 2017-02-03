@@ -22,15 +22,15 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/bibakbg/Bang-TG.git
-cd Bang-TG
-chmod +x bang.sh
-./bang.sh install
-./bang.sh # Enter a phone number & confirmation code.
+cd hektor-tg
+chmod +x hektor.sh
+./hektor.sh install
+./hektor.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/bibakbg/Bang-TG.git && cd Bang-TG && chmod +x bang.sh && ./bang.sh install && ./bang.sh
+cd $HOME && git clone https://github.com/hektor-tm/hektor-tg.git && cd hektor-tg && chmod +x hektor.sh && ./hektor.sh install && ./bang.sh
 ```
 
 * * *
@@ -52,6 +52,7 @@ Then restart the bot.
 
 — اضافه کردن ID ربات خود را در خط 4 و اضافه کردن ID خود را در خط 87 در bot.lua اضافه کردن ID خود را در خط 2 در Tools.lua سپس ربات راه اندازی مجدد شود.
 - *نکته اگه نزارید بات لفت نمیده*
+
 # [DR.AMIR](https://telegram.me/BOTS_sudo)
 
 ### هر گونه مشکلی داشت به ساپورت مراجعه کنید
