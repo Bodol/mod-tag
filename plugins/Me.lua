@@ -22,7 +22,3 @@ return {
   run = run
 }
 end
-
-
---By @Bibak_BG
--- @BanG_TeaM
